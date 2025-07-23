@@ -39,6 +39,6 @@ We welcome developers, linguists, and Quranic enthusiasts to join us! You can co
 - **Email**: [QuranTextAnalyzer@protonmail.com](mailto:QuranTextAnalyzer@protonmail.com)
 
 ## Visual Representation
-![QuranTextAnalyzer Logo](https://via.placeholder.com/150) *(Replace with calligraphy-style image once uploaded)*
+![QuranTextAnalyzer Logo](assets/image.jpg) 
 
 Join us to revolutionize Quranic understanding!
