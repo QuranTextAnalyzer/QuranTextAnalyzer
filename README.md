@@ -20,20 +20,25 @@ Welcome to **QuranTextAnalyzer**, an open-source project to understand the Quran
 - **Database**: SQLite or JSON.
 - **Hosting**: GitHub Pages (frontend), Heroku/Render (backend).
 
+## Progress
+| Task                  | Status       | Notes                          |
+|-----------------------|--------------|--------------------------------|
+| Repository Created    | ✅ Completed | Initial setup done             |
+| Upload Quran Text     | ⏳ In Progress | Download from Tanzil.net       |
+| Text Processing Code  | ⏳ In Progress | Initial Python script planned  |
+
 ## How to Contribute
 We welcome developers, linguists, and Quranic enthusiasts to join us! You can contribute by:
 - Writing code for text processing or user interface.
 - Analyzing verses to infer meanings.
-- Providing documentation or testing.
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-## Current Status
-- Initial setup: Repository created.
-- Next steps: Upload Quran text, develop text processing algorithms.
+- Providing documentation or testing. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Contact
-- **GitHub Issues**: For tasks and bug reports.
-- **GitHub Discussions**: For ideas and collaboration.
-- **Email**: QuranTextAnalyzer@protonmail.com
+- **GitHub Issues**: Report bugs or suggest features.
+- **GitHub Discussions**: Share ideas and collaborate.
+- **Email**: [QuranTextAnalyzer@protonmail.com](mailto:QuranTextAnalyzer@protonmail.com)
+
+## Visual Representation
+![QuranTextAnalyzer Logo](https://via.placeholder.com/150) *(Replace with calligraphy-style image once uploaded)*
 
 Join us to revolutionize Quranic understanding!
