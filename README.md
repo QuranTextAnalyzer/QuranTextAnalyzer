@@ -24,8 +24,10 @@ Welcome to **QuranTextAnalyzer**, an open-source project to understand the Quran
 | Task                  | Status       | Notes                          |
 |-----------------------|--------------|--------------------------------|
 | Repository Created    | ✅ Completed | Initial setup done             |
-| Upload Quran Text     | ⏳ In Progress | Download from Tanzil.net       |
+| Upload Quran Text     | ✅ Completed | qurantexttanzil.csv from Tanzil|
 | Text Processing Code  | ⏳ In Progress | Initial Python script planned  |
+
+Quran text sourced from https://tanzil.net
 
 ## How to Contribute
 We welcome developers, linguists, and Quranic enthusiasts to join us! You can contribute by:
