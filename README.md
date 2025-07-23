@@ -1,16 +1,39 @@
-## Hi there 👋
+# QuranTextAnalyzer
 
-<!--
-**QuranTextAnalyzer/QuranTextAnalyzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **QuranTextAnalyzer**, an open-source project to understand the Quran through a revolutionary approach. We aim to analyze the text of the Quran without relying on standard Arabic dictionaries, creating a unique dictionary based on internal patterns, contexts, and word relationships.
 
-Here are some ideas to get you started:
+## Vision
+- Uncover the true meanings of the Quran by analyzing words, verses, and contexts.
+- Build a new dictionary that reflects the Quran's unique language.
+- Provide an accessible tool for researchers, scholars, and enthusiasts to explore the Quran.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Malay Translation**: Projek sumber terbuka untuk memahami Al-Qur'an tanpa kamus Arab standard, membina kamus baru berdasarkan pola dalaman teks. Sertai kami untuk merevolusikan pemahaman Al-Qur'an!
+
+## Goals
+- Develop a web-based tool for Quranic text analysis.
+- Identify word roots, frequencies, and semantic relationships.
+- Create an interactive interface with visualizations of word connections.
+
+## Technologies
+- **Backend**: Python (PyArabic, NLTK, Pandas, NetworkX).
+- **Frontend**: React.js, Tailwind CSS, D3.js.
+- **Database**: SQLite or JSON.
+- **Hosting**: GitHub Pages (frontend), Heroku/Render (backend).
+
+## How to Contribute
+We welcome developers, linguists, and Quranic enthusiasts to join us! You can contribute by:
+- Writing code for text processing or user interface.
+- Analyzing verses to infer meanings.
+- Providing documentation or testing.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## Current Status
+- Initial setup: Repository created.
+- Next steps: Upload Quran text, develop text processing algorithms.
+
+## Contact
+- **GitHub Issues**: For tasks and bug reports.
+- **GitHub Discussions**: For ideas and collaboration.
+- **Email**: QuranTextAnalyzer@protonmail.com
+
+Join us to revolutionize Quranic understanding!
